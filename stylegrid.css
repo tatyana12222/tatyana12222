@@ -1,0 +1,350 @@
+.osn
+{ 
+	padding: 10px;
+	display: grid;
+	justify-items:center;
+	align-items: center;
+	text-align: center;
+	font-size: 10px;
+	margin-top:2%;
+}
+.page
+{
+    display: grid;
+	grid-template-areas:
+	"plan start econom standart prof"
+    "amount two fourty ten unlim"
+    "band sto dva cix tri"
+    "mail odin pit si unlim2"
+    "my one fifteen sixty unlim3"
+    "dvapi no yes yes1 yes2"
+    "support dvaz shek fourteen twenty"
+    "what star start1 strat2 start3";
+	grid-gap: 2px;
+	justify-items: center;
+    margin-top: 1%;
+}
+.plan
+{
+    background-color: #6c68ab;
+    font: 16px Arial ;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: 20%;
+}
+.start
+{
+    background-color: #504d8c;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: auto;
+}
+.econom
+{
+    background-color: #3c3970;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: auto;
+}
+.standart
+{
+    background-color: #292659;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: auto;
+}
+.prof
+{
+    background-color: #13103b;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height:100px;
+    text-align: auto;
+}
+.amount
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.two
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.fourty 
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.ten
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.unlim
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.band
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.sto
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.dva
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.cix
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.tri
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.mail
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;   
+} 
+.odin
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;  
+}
+.pit
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;    
+}
+.si
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;    
+}
+.unlim2
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;   
+} 
+.my
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;      
+}
+.one
+{
+    
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;      
+}
+.fifteen
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.sixty
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;   
+}
+.unlim3
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+} 
+.dvapi
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;  
+}
+
+.no{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.yes{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.yes1{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}
+.yes2{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;
+}  
+.support
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto; 
+}
+.dvaz
+{background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;}
+.shek
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto;   
+}
+.fourteen
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;   
+}
+.twenty
+{background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: auto; }
+.what
+{
+        background-color: #C0C0C0;
+        font: 16px Arial;
+        width: 120px;
+        height: 40px;
+        text-align: auto;  
+ }
+.star
+{
+        background-color: #DCDCDC;
+        font: 16px Arial;  
+        width: 120px;
+        height: 40px;
+        text-align: auto; 
+ }
+.start1
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;     
+}      
+.strat2
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;  
+}
+.start3
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: auto;      
+}
