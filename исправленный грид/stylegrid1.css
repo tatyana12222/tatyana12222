@@ -1,0 +1,353 @@
+.found
+{ 
+	padding: 10px;
+	display: grid;
+	justify-items:center;
+	align-items: center;
+	text-align: center;
+	font-size: 10px;
+	margin-top:2%;
+}
+.page
+{
+    display: grid;
+	grid-template-areas:
+	"plan start econom standart prof"
+    "amount twenty fourty ten unlim"
+    "bandwidth twelve twentyfour sixtyone thirteen"
+    "mail one-1 fifteen-1 sixty-1 unlim2"
+    "my one fifteen sixty unlim3"
+    "twentyfive word-1 word-2 word-3 word4"
+    "support two-1 six fourteen twenty-1"
+    "last start-1 start-2 start-3 start-4";
+	grid-gap: 2px;
+	justify-items: center;
+    margin-top: 1%;
+}
+.plan
+{
+    background-color: #6c68ab;
+    font: 16px Arial ;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+.start
+{
+    background-color: #504d8c;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+.econom
+{
+    background-color: #3c3970;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+.standart
+{
+    background-color: #292659;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+.prof
+{
+    background-color: #13103b;
+    font: 16px Arial;
+    font-weight: bold;
+    color:white;
+    width: 120px;
+    height:100px;
+    text-align: center;
+}
+.amount
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.twenty
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.fourty 
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.ten
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.unlim
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.bandwidth
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.twelve
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+.twentyfour
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.sixtyone
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+.thirteen
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.mail
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;  
+} 
+.one-1
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;  
+}
+.fifteen-1
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;   
+}
+.sixty-1
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;   
+}
+.unlim2
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;   
+} 
+.my
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;      
+}
+.one
+{
+    
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;     
+}
+.fifteen
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+.sixty
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+.unlim3
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+} 
+.twentyfive
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+
+.word-1
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.word-2{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+}
+.word-3{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.word-4{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}  
+.support
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.two-1
+{background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+}
+.six
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;   
+}
+.fourteen
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;  
+}
+.twenty-1
+{background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center;
+ }
+.last
+{
+        background-color: #C0C0C0;
+        font: 16px Arial;
+        width: 120px;
+        height: 40px;
+        text-align: center;  
+ }
+.start-1
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;  
+    width: 120px;
+    height: 40px;
+    text-align: center; 
+ }
+.start-2
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;     
+}      
+.start-3
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;      
+}
+.start-4
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    width: 120px;
+    height: 40px;
+    text-align: center;      
+}

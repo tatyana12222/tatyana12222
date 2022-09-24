@@ -1,0 +1,53 @@
+#tabl
+{
+    padding: 10px 20px ;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+}
+
+#first
+{
+    background-color: #6c68ab;
+    font: 18px Arial ;
+    font-weight: bold;
+    color:white;
+}
+#second
+{
+    background-color: #504d8c;
+    font: 18px Arial;
+    font-weight: bold;
+    color:white;
+}
+#third{
+    background-color: #3c3970;
+    font: 18px Arial;
+    font-weight: bold;
+    color:white;
+}
+#fourth{
+    background-color: #292659;
+    font: 18px Arial;
+    font-weight: bold;
+    color:white;
+}
+#fifth{
+    background-color: #13103b;
+    font: 18px Arial;
+    font-weight: bold;
+    color:white;
+}
+.one
+{
+    background-color: #DCDCDC;
+    font: 16px Arial;
+    text-align: center;
+}
+.two
+{
+    background-color: #C0C0C0;
+    font: 16px Arial;
+    text-align: center;
+}
+
